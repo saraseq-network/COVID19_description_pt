@@ -1,7 +1,7 @@
-# Análise dos dados de COVID19 em Portugal 😷
+# COVID19 Situation in Portugal 😷
 
-Este repositório contém a análise dos dados de COVID19 em Portugal que cada uma de nós fez durante a preparação para o estágio em epidemiologia.
+Description of COVID19 epidemiological situation in Portugal.
 
-<strong>Fonte dos dados:</strong> https://github.com/dssg-pt/covid19pt-data
+<strong>Data source:</strong> https://github.com/dssg-pt/covid19pt-data
 
 👩💻
