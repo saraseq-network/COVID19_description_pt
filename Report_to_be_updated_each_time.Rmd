@@ -1,7 +1,7 @@
 ---
 title: "Análise COVID-19"
-author: "Estagiárias"
-date: "30/09/2020"
+author: "Sara Sequeira"
+date: "09/01/2022"
 output:
   html_document:
     code_folding: hide
@@ -2003,3 +2003,23 @@ ggplotly(recuperados_grafico, tooltip = "text") %>%
                                        rep("\n&nbsp;", 2)),
                                      collapse = "")))
 ```
+
+<br>
+<br>
+
+$~$
+<center> 
+ **Um trabalho de**
+
+Sara Sequeira [`r icon::fa("linkedin")`](https://www.linkedin.com/in/sara-sequeira-1b5085152/)
+
+sarasequeira5@hotmail.com;
+
+[`r icon::fa("github")`](https://github.com/saraacsequeira/COVID19_description_pt)
+
+</center>
+
+
+
+
+
